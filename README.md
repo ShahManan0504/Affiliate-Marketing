@@ -1,0 +1,1 @@
+This is a basic Affiliate Shopping Website in which user can watch the product of many company's in one web site and after comparing all description of product user will be redirect to the official webpage for the same product.
